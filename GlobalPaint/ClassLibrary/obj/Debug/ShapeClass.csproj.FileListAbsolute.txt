@@ -1,0 +1,6 @@
+C:\coding project\application software practice\GlobalPaint\ShapeClass\bin\Debug\ShapeClass.dll
+C:\coding project\application software practice\GlobalPaint\ShapeClass\bin\Debug\ShapeClass.pdb
+C:\coding project\application software practice\GlobalPaint\ShapeClass\obj\Debug\ShapeClass.csprojAssemblyReference.cache
+C:\coding project\application software practice\GlobalPaint\ShapeClass\obj\Debug\ShapeClass.csproj.CoreCompileInputs.cache
+C:\coding project\application software practice\GlobalPaint\ShapeClass\obj\Debug\ShapeClass.dll
+C:\coding project\application software practice\GlobalPaint\ShapeClass\obj\Debug\ShapeClass.pdb
